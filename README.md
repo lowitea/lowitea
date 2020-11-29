@@ -2,20 +2,18 @@
 
 <br/>
 
-<img src="http://lowit.ru/favicon.ico" height="15" /> My personal page [lowit.ru](http://lowit.ru/)  
-<img src="https://raw.githubusercontent.com/Uma-Tech/parrot/master/static/parrot_icon.svg" height="15" /> I’m currently developing project [Parrot](https://github.com/Uma-Tech/parrot)  
-🐍 I’m fluent in Python programming language  
-<img src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" height="15" /> I study and really love the Rust language  
-<img src="https://profilinator.rishav.dev/skills-assets/go-original.svg" height="15" /> I am developing skills in the Go language and use it in commercial development  
-
-<br/>
-
------
+<img src="http://lowit.ru/favicon.ico" height="25" /> My personal page is [lowit.ru](http://lowit.ru/)  
+<img src="https://raw.githubusercontent.com/Uma-Tech/parrot/master/static/parrot_icon.svg" height="25" /> I’m currently developing a project [Parrot](https://github.com/Uma-Tech/parrot)  
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="25" /> I’m fluent in Python  
+<img src="https://www.rustacean.net/assets/rustacean-flat-happy.svg" height="17" /> I'm passionate about Rust and study it  
+<img src="https://profilinator.rishav.dev/skills-assets/go-original.svg" height="25" /> I’m developing skills in Go at the moment and using it in commercial software development    
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Fedora_logo.svg" height="25" /> I'm interested in Linux and use a Linux distribution Fedora  
+<img src="https://upload.wikimedia.org/wikipedia/en/2/22/Heckert_GNU_white.svg" height="25" /> I like to take part in open-source software development
 
 <br/>
 
 ## My Skills
-_The level of proficiency is different_
+_The level of proficiency in the instruments below is different but I have used them in commercial software development._
 
 <table><tr><td valign="top" width="33%">
 
@@ -66,12 +64,8 @@ _The level of proficiency is different_
 
 <br/>
 
------
-
-<br/>
-
 ## Github Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lowitea&hide_border=true&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" align="left" />  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lowitea&layout=compact" align="left" />  
 
 <br />
