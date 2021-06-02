@@ -3,7 +3,7 @@
 <br/>
 
 <img src="http://lowit.ru/favicon.ico" height="25" /> My personal page is [lowit.ru](http://lowit.ru/)  
-<img src="https://raw.githubusercontent.com/Uma-Tech/parrot/master/static/parrot_icon.svg" height="25" /> I’m currently developing a project [Parrot](https://github.com/Uma-Tech/parrot)  
+<img src="https://raw.githubusercontent.com/NUTtech/Kesha/develop/static/kesha_icon.svg" height="25" /> I’m currently developing a project [Kesha](https://github.com/NUTtech/Kesha)  
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="25" /> I’m fluent in Python  
 <img src="https://www.rustacean.net/assets/rustacean-flat-happy.svg" height="17" /> I'm passionate about Rust and study it  
 <img src="https://profilinator.rishav.dev/skills-assets/go-original.svg" height="25" /> I’m developing skills in Go at the moment and using it in commercial software development    
