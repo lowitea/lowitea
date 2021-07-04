@@ -66,6 +66,8 @@ _The level of proficiency in the instruments below is different but I have used 
 
 ## Github Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lowitea&layout=compact" align="left" />  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lowitea&layout=compact" align="left" />
+<img src="https://github-readme-stats.vercel.app/api?username=lowitea&count_private=true&hide=stars&show_icons=true" align="right" />
+
 
 <br />
