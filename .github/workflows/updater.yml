@@ -8,17 +8,28 @@ on:
 jobs:
   update-profile:
     runs-on: ubuntu-latest
+    container: debian:bookworm-slim
 
     permissions:
       contents: write
 
     steps:
+      - name: Install fortune and cowsay
+        run: apt-get update && apt-get install cowsay fortune git -yq
+
       - uses: actions/checkout@v4
 
       - name: Update README.md
         run: |
           echo '```\n' > README.md
-          fortune | cowsay -f "$(ls /usr/share/cowsay/cows | sort -R | head -1)" >> README.md
+          /usr/games/fortune | /usr/games/cowsay -f "$(ls /usr/share/cowsay/cows | sort -R | head -1)" >> README.md
           echo '\n\n```' >> README.md
+          ls -lah
 
-      - uses: stefanzweifel/git-auto-commit-action@v5
+      - name: Push
+        run: |
+          git config --global --add safe.directory /__w/lowitea/lowitea
+          git config --global user.name 'Updater'
+          git config --global user.email 'updater@lowit.ru'
+          git commit -am "Update profile"
+          git push
