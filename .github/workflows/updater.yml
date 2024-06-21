@@ -24,7 +24,6 @@ jobs:
           echo '```\n' > README.md
           /usr/games/fortune | /usr/games/cowsay -f "$(ls /usr/share/cowsay/cows | sort -R | head -1)" >> README.md
           echo '\n\n```' >> README.md
-          ls -lah
 
       - name: Push
         run: |
