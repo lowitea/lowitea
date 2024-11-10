@@ -1,14 +1,14 @@
 ```
 
- _________________________________________
-/ Q: What do you call a blind, deaf-mute, \
-\ quadraplegic Virginian? A: Trustworthy. /
- -----------------------------------------
+ ________________________________________
+/ Q: Why did the chicken cross the road? \
+\ A: He was giving it last rites.        /
+ ----------------------------------------
   \
-   \____
-  /@    ~-.
-  \/ __ .- |
-   // //  @
+   \   \
+        \ /\
+        ( )
+      .( o ).
 
 
 ```
