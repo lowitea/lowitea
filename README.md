@@ -1,20 +1,21 @@
 ```
 
- ________________________________________
-/ My only love sprung from my only hate! \
-| Too early seen unknown, and known too  |
-| late!                                  |
-|                                        |
-| -- William Shakespeare, "Romeo and     |
-\ Juliet"                                /
- ----------------------------------------
-     \
-      \
-          oO)-.                       .-(Oo
-         /__  _\                     /_  __\
-         \  \(  |     ()~()         |  )/  /
-          \__|\ |    (-___-)        | /|__/
-          '  '--'    ==`-'==        '--'  '
+ ____________________________________
+/ A horse! A horse! My kingdom for a \
+| horse!                             |
+|                                    |
+\ -- Wm. Shakespeare, "Richard III"  /
+ ------------------------------------
+  \            .    .     .   
+   \      .  . .     `  ,     
+    \    .; .  : .' :  :  : . 
+     \   i..`: i` i.i.,i  i . 
+      \   `,--.|i |i|ii|ii|i: 
+           UooU\.'@@@@@@`.||' 
+           \__/(@@@@@@@@@@)'  
+                (@@@@@@@@)    
+                `YY~~~~YY'    
+                 ||    ||     
 
 
 ```
