@@ -1,15 +1,22 @@
 ```
 
- ______________________________________
-/ Are you making all this up as you go \
-\ along?                               /
- --------------------------------------
-       \ (__)
-         (oo)
-   /------\/
-  / |    ||
- *  /\---/\
-    ~~   ~~
+ ________________________________________
+/ Q: Why is Christmas just like a day at \
+| the office? A: You do all of the work  |
+| and the fat guy in the suit            |
+|                                        |
+\ gets all the credit.                   /
+ ----------------------------------------
+   \
+    \
+        .--.
+       |o_o |
+       |:_/ |
+      //   \ \
+     (|     | )
+    /'\_   _/`\
+    \___)=(___/
+
 
 
 ```
