@@ -1,17 +1,26 @@
 ```
 
- ______________________________________
-/ Your life would be very empty if you \
-\ had nothing to regret.               /
- --------------------------------------
-       \
-        \  ....
-          .    ........
-          .            .
-          .             .
-    .......              .........
-    ..............................
-Elephant inside ASCII snake
+ ____________________________________
+/ Q: What does a WASP Mom make for   \
+| dinner? A: A crisp salad, a hearty |
+| soup, a lovely entree, followed by |
+|                                    |
+\ a delicious dessert.               /
+ ------------------------------------
+    \
+     \
+      \
+  ___       _____     ___
+ /   \     /    /|   /   \
+|     |   /    / |  |     |
+|     |  /____/  |  |     |     
+|     |  |    |  |  |     |
+|     |  | {} | /   |     |
+|     |  |____|/    |     |
+|     |    |==|     |     |
+|      \___________/      |
+|                         |
+|                         |
 
 
 ```
