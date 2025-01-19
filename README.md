@@ -1,23 +1,18 @@
 ```
 
  _________________________________________
-/ October.                                \
+/ A hundred years from now it is very     \
+| likely that [of Twain's works] "The     |
+| Jumping Frog" alone will be remembered. |
 |                                         |
-| This is one of the peculiarly dangerous |
-| months to speculate in stocks in.       |
-|                                         |
-| The others are July, January,           |
-| September, April, November, May, March, |
-| June, December, August, and February.   |
-|                                         |
-| -- Mark Twain, "Pudd'nhead Wilson's     |
-\ Calendar"                               /
+| -- Harry Thurston Peck (Editor of "The  |
+\ Bookman"), January 1901.                /
  -----------------------------------------
-  \
-   \   \
-        \ /\
-        ( )
-      .( o ).
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
 
 
 ```
