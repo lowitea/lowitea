@@ -1,30 +1,24 @@
 ```
 
  _________________________________________
-/ You will be reincarnated as a toad; and \
-\ you will be much happier.               /
+/ Good day for a change of scene. Repaper \
+\ the bedroom wall.                       /
  -----------------------------------------
-          \
-           \
-            \          __---__
-                    _-       /--______
-               __--( /     \ )XXXXXXXXXXX\v.
-             .-XXX(   O   O  )XXXXXXXXXXXXXXX-
-            /XXX(       U     )        XXXXXXX\
-          /XXXXX(              )--_  XXXXXXXXXXX\
-         /XXXXX/ (      O     )   XXXXXX   \XXXXX\
-         XXXXX/   /            XXXXXX   \__ \XXXXX
-         XXXXXX__/          XXXXXX         \__---->
- ---___  XXX__/          XXXXXX      \__         /
-   \-  --__/   ___/\  XXXXXX            /  ___--/=
-    \-\    ___/    XXXXXX              '--- XXXXXX
-       \-\/XXX\ XXXXXX                      /XXXXX
-         \XXXXXXXXX   \                    /XXXXX/
-          \XXXXXX      >                 _/XXXXX/
-            \XXXXX--__/              __-- XXXX/
-             -XXXXXXXX---------------  XXXXXX-
-                \XXXXXXXXXXXXXXXXXXXXXXXXXX/
-                  ""VXXXXXXXXXXXXXXXXXXV""
+    \                                  ___-------___
+     \                             _-~~             ~~-_
+      \                         _-~                    /~-_
+             /^\__/^\         /~  \                   /    \
+           /|  O|| O|        /      \_______________/        \
+          | |___||__|      /       /                \          \
+          |          \    /      /                    \          \
+          |   (_______) /______/                        \_________ \
+          |         / /         \                      /            \
+           \         \^\\         \                  /               \     /
+             \         ||           \______________/      _-_       //\__//
+               \       ||------_-~~-_ ------------- \ --/~   ~\    || __/
+                 ~-----||====/~     |==================|       |/~~~~~
+                  (_(__/  ./     /                    \_\      \.
+                         (_(___/                         \_____)_)
 
 
 ```
