@@ -1,9 +1,9 @@
 ```
 
- ________________________________________
-/ Increased knowledge will help you now. \
-\ Have mate's phone bugged.              /
- ----------------------------------------
+ ______________________________________
+/ Artistic ventures highlighted. Rob a \
+\ museum.                              /
+ --------------------------------------
    \
     \        .
      .---.  //
