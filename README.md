@@ -1,31 +1,18 @@
 ```
 
- ________________________________________
-/ Q: Why do people who live near Niagara \
-| Falls have flat foreheads? A: Because  |
-| every morning they wake up thinking    |
-| "What *is* that noise?                 |
-|                                        |
-\ Oh, right, *of course*!                /
- ----------------------------------------
-   \
-    \
-      _____   _________
-     /     \_/         |
-    |                 ||
-    |                 ||
-   |    ###\  /###   | |
-   |     0  \/  0    | |
-  /|                 | |
- / |        <        |\ \
-| /|                 | | |
-| |     \_______/   |  | |
-| |                 | / /
-/||                 /|||
-   ----------------|
-        | |    | |
-        ***    ***
-       /___\  /___\
+ _______________________________________
+/ One of the most striking differences  \
+| between a cat and a lie is that a cat |
+| has only nine lives.                  |
+|                                       |
+| -- Mark Twain, "Pudd'nhead Wilson's   |
+\ Calendar"                             /
+ ---------------------------------------
+        \  ^___^
+         \ (ooo)\_______
+           (___)\       )\/\
+                ||----w |
+                ||     ||
 
 
 ```
