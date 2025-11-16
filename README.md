@@ -1,18 +1,18 @@
 ```
 
- ________________________
-/ Don't Worry, Be Happy. \
-|                        |
-\ -- Meher Baba          /
- ------------------------
-        \    ,-^-.
-         \   !oYo!
-          \ /./=\.\______
-               ##        )\/\
-                ||-----w||
-                ||      ||
-
-               Cowth Vader
+ ______________________________________
+/ In the first place, God made idiots; \
+| this was for practice; then he made  |
+| school boards.                       |
+|                                      |
+\ -- Mark Twain                        /
+ --------------------------------------
+       \ (__)
+         (oo)
+   /------\/
+  / |    ||
+ *  /\---/\
+    ~~   ~~
 
 
 ```
