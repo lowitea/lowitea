@@ -1,21 +1,23 @@
 ```
 
  ________________________________________
-/ I don't know half of you half as well  \
-| as I should like; and I like less than |
-| half of you half as well as you        |
-| deserve.                               |
-|                                        |
-\ -- J. R. R. Tolkien                    /
+/ You will be married within a year, and \
+\ divorced within two.                   /
  ----------------------------------------
-       \
-        \  ....
-          .    ........
-          .            .
-          .             .
-    .......              .........
-    ..............................
-Elephant inside ASCII snake
+    \
+     \
+      \
+  ___       _____     ___
+ /   \     /    /|   /   \
+|     |   /    / |  |     |
+|     |  /____/  |  |     |     
+|     |  |    |  |  |     |
+|     |  | {} | /   |     |
+|     |  |____|/    |     |
+|     |    |==|     |     |
+|      \___________/      |
+|                         |
+|                         |
 
 
 ```
