@@ -1,40 +1,21 @@
 ```
 
  _________________________________________
-/ Q: How many Californians does it take   \
-| to screw in a light bulb? A: Five. One  |
-| to screw in the light bulb and four to  |
-| share the                               |
-|                                         |
-| experience. (Actually, Californians     |
-| don't screw in                          |
-|                                         |
-| light bulbs, they screw in hot tubs.)   |
-|                                         |
-| Q: How many Oregonians does it take to  |
-| screw in a light bulb? A: Three. One to |
-| screw in the light bulb and two to fend |
-| off all                                 |
-|                                         |
-| those Californians trying to share the  |
-\ experience.                             /
+/ You will pay for your sins. If you have \
+| already paid, please disregard this     |
+\ message.                                /
  -----------------------------------------
-                       \                    ^    /^
-                        \                  / \  // \
-                         \   |\___/|      /   \//  .\
-                          \  /O  O  \__  /    //  | \ \           *----*
-                            /     /  \/_/    //   |  \  \          \   |
-                            @___@`    \/_   //    |   \   \         \/\ \
-                           0/0/|       \/_ //     |    \    \         \  \
-                       0/0/0/0/|        \///      |     \     \       |  |
-                    0/0/0/0/0/_|_ /   (  //       |      \     _\     |  /
-                 0/0/0/0/0/0/`/,_ _ _/  ) ; -.    |    _ _\.-~       /   /
-                             ,-}        _      *-.|.-~-.           .~    ~
-            \     \__/        `/\      /                 ~-. _ .-~      /
-             \____(oo)           *.   }            {                   /
-             (    (--)          .----~-.\        \-`                 .~
-             //__\\  \__ Ack!   ///.----..<        \             _ -~
-            //    \\               ///-._ _ _ _ _ _ _{^ - - - - ~
+    \
+     \
+                                   .::!!!!!!!:.
+  .!!!!!:.                        .:!!!!!!!!!!!!
+  ~~~~!!!!!!.                 .:!!!!!!!!!UWWW$$$ 
+      :$$NWX!!:           .:!!!!!!XUWW$$$$$$$$$P 
+      $$$$$##WX!:      .<!!!!UW$$$$"  $$$$$$$$# 
+      $$$$$  $$$UX   :!!UW$$$$$$$$$   4$$$$$* 
+      ^$$$B  $$$$\     $$$$$$$$$$$$   d$$R" 
+        "*$bd$$$$      '*$$$$$$$$$$$o+#" 
+             """"          """"""" 
 
 
 ```
