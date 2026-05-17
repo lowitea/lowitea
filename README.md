@@ -1,30 +1,27 @@
 ```
 
  _________________________________________
-/ In Marseilles they make half the toilet \
-| soap we consume in America, but the     |
-| Marseillaise only have a vague          |
-| theoretical idea of its use, which they |
-| have obtained from books of travel.     |
+/ The human race has one really effective \
+| weapon, and that is laughter.           |
 |                                         |
 \ -- Mark Twain                           /
  -----------------------------------------
- \     ____________ 
-  \    |__________|
-      /           /\
-     /           /  \
-    /___________/___/|
-    |          |     |
-    |  ==\ /== |     |
-    |   O   O  | \ \ |
-    |     <    |  \ \|
-   /|          |   \ \
-  / |  \_____/ |   / /
- / /|          |  / /|
-/||\|          | /||\/
-    -------------|   
-        | |    | | 
-       <__/    \__>
+         \     ,-.      .-,
+          \    |-.\ __ /.-|
+           \   \  `    `  /
+                /_     _ \
+              <  _`q  p _  >
+              <.._=/  \=_. >
+                 {`\()/`}`\
+                 {      }  \
+                 |{    }    \
+                 \ '--'   .- \
+                 |-      /    \
+                 | | | | |     ;
+                 | | |.;.,..__ |
+               .-"";`         `|
+              /    |           /
+              `-../____,..---'`
 
 
 ```
