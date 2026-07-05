@@ -1,18 +1,20 @@
 ```
 
- ___________________________________
-/ Q: What is green and lives in the \
-\ ocean? A: Moby Pickle.            /
- -----------------------------------
-          \      (__)      
-           \     /oo|  
-            \   (_"_)*+++++++++*
-                   //I#\\\\\\\\I\
-                   I[I|I|||||I I `
-                   I`I'///'' I I
-                   I I       I I
-                   ~ ~       ~ ~
-                     Scowleton
+ _________________________________________
+/ He that breaks a thing to find out what \
+| it is has left the path of wisdom.      |
+|                                         |
+\ -- J.R.R. Tolkien                       /
+ -----------------------------------------
+     \
+      \
+        ,__, |    | 
+        (oo)\|    |___
+        (__)\|    |   )\_
+             |    |_w |  \
+             |    |  ||   *
+
+             Cower....
 
 
 ```
