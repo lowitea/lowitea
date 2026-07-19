@@ -1,23 +1,21 @@
 ```
 
  ________________________________________
-/ Q: How was Thomas J. Watson buried? A: \
-\ 9 edge down.                           /
+/ He draweth out the thread of his       \
+| verbosity finer than the staple of his |
+| argument.                              |
+|                                        |
+| -- William Shakespeare, "Love's        |
+\ Labour's Lost"                         /
  ----------------------------------------
-  \     .    _  .    
-   \    |\_|/__/|    
-       / / \/ \  \  
-      /__|O||O|__ \ 
-     |/_ \_/\_/ _\ |  
-     | | (____) | ||  
-     \/\___/\__/  // 
-     (_/         ||
-      |          ||
-      |          ||\   
-       \        //_/  
-        \______//
-       __ || __||
-      (____(____)
+        \    ,-^-.
+         \   !oYo!
+          \ /./=\.\______
+               ##        )\/\
+                ||-----w||
+                ||      ||
+
+               Cowth Vader
 
 
 ```
