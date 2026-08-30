@@ -1,15 +1,27 @@
 ```
 
  _________________________________________
-/ Give your very best today. Heaven knows \
-\ it's little enough.                     /
+/ The notes blatted skyward as they rose  \
+| over the Canada geese, feathered rumps  |
+| mooning the day, webbed appendages      |
+| frantically pedaling unseen bicycles in |
+| their search for sustenance, driven by  |
+| cruel Nature's maxim, 'Ya wanna eat, ya |
+| gotta work,' and at last I knew         |
+| Pittsburgh.                             |
+|                                         |
+| -- Winning sentence, 1987 Bulwer-Lytton |
+\ bad fiction contest.                    /
  -----------------------------------------
-     \      _^^
-      \   _- oo\
-          \----- \______
-                \       )\
-                ||-----|| \
+       \    ____
+        \  /    \
+          | ^__^ |
+          | (oo) |______
+          | (__) |      )\/\
+           \____/|----w |
                 ||     ||
+
+                 Moofasa
 
 
 ```
