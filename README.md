@@ -1,23 +1,15 @@
 ```
 
- ________________________________________
-/ Q: Why is Christmas just like a day at \
-| the office? A: You do all of the work  |
-| and the fat guy in the suit            |
-|                                        |
-\ gets all the credit.                   /
- ----------------------------------------
-    \
-     \  /\/\
-       \   /
-       |  0 >>
-       |___|
- __((_<|   |
-(          |
-(__________)
-   |      |
-   |      |
-   /\     /\
+ _______________________________________
+/ You'll wish that you had done some of \
+| the hard things when they were easier |
+\ to do.                                /
+ ---------------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
 
 
 ```
